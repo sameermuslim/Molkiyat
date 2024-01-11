@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Molkiyat</string>
+    <string name="let_s_search">Let\'s search</string>
+    <string name="add_property">Add Property</string>
+    <string name="sinup">Need a new Account</string>
+    <string name="login">Login to Account</string>
+    <string name="login_btn">Login BTN</string>
+    <string name="pass_etext">Password</string>
+    <string name="email_etext">Email</string>
+    <string name="logo">my_logo</string>
+    <string name="log_out">Log Out</string>
+    <string name="create_new_Account">Create new Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already Have an Account</string>
+
+    <string-array name="province_name">
+        <item>Balkh</item>
+        <item>Kabul</item>
+        <item>Herat</item>
+        <item>Khandahar</item>
+        <item>Bakhlan</item>
+        <item>Khondoz</item>
+        <item>Badakhshan</item>
+        <item>Jalalabad</item>
+    </string-array>
+
+    <string-array name="currency">
+        <item>AFG</item>
+        <item>USA</item>
+        <item>PK</item>
+        <item>IR</item>
+    </string-array>
+
+    <string-array name="property_type">
+        <item>Houses</item>
+        <item>Flats</item>
+        <item>Farm Houses</item>
+        <item>Rooms</item>
+        <item>Upper Portions</item>
+        <item>Lower portions</item>
+
+    </string-array>
+    <string-array name="min_price">
+        <item>min</item>
+        <item>500,000</item>
+        <item>1,000,000</item>
+        <item>2,000,000</item>
+        <item>3,000,000</item>
+        <item>7,000,000</item>
+        <item>10,000,000</item>
+    </string-array>
+
+    <string-array name="max_price">
+        <item>max</item>
+        <item>500,000</item>
+        <item>1,000,000</item>
+        <item>2,000,000</item>
+        <item>3,000,000</item>
+        <item>7,000,000</item>
+        <item>10,000,000</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="perviu_menu"><![CDATA[<]]></string>
+    <string name="next_menu">Next></string>
+    <string name="district">District</string>
+    <string name="city">City</string>
+    <string name="house_number">house number</string>
+    <string name="address">Address</string>
+    <string name="area">area</string>
+    <string name="street">street</string>
+
+</resources>

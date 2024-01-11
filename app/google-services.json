@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "79192274168",
+    "firebase_url": "https://sameer-bot.firebaseio.com",
+    "project_id": "sameer-bot",
+    "storage_bucket": "sameer-bot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79192274168:android:775d0d17f83bd8f3",
+        "android_client_info": {
+          "package_name": "com.example.molkiyat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79192274168-fgg34sbfjed95qm6tbefcb9jcd4m7ggf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.molkiyat",
+            "certificate_hash": "bd422b0c34f1d6852006d8fcf3a28087474274ff"
+          }
+        },
+        {
+          "client_id": "79192274168-jnclrsmeb0fj9kirjvo4aqu7thm6rbu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQbQHTwahJw1qxq3HOKVqaQ2AUboyYumI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79192274168-0kl48575esjidg8c6l7bs91n5fcjiap6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
